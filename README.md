@@ -1,6 +1,5 @@
 ### Hi there 👋 I am Sourav Sarkar 
-🌱 I’m currently exploring Reactjs
-👯 I’m looking to collaborate on OpenSource
+
 
 
 <!--
